@@ -1,0 +1,7 @@
+C:\Users\Emir\source\repos\C#\morsecode\morsecode\bin\Debug\morsecode.exe.config
+C:\Users\Emir\source\repos\C#\morsecode\morsecode\bin\Debug\morsecode.exe
+C:\Users\Emir\source\repos\C#\morsecode\morsecode\bin\Debug\morsecode.pdb
+C:\Users\Emir\source\repos\C#\morsecode\morsecode\obj\Debug\morsecode.csprojAssemblyReference.cache
+C:\Users\Emir\source\repos\C#\morsecode\morsecode\obj\Debug\morsecode.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\C#\morsecode\morsecode\obj\Debug\morsecode.exe
+C:\Users\Emir\source\repos\C#\morsecode\morsecode\obj\Debug\morsecode.pdb
